@@ -1,5 +1,5 @@
 Learning Goals
-- [ ] require and reload files in irb
+- [x] require and reload files in irb
 - [ ] understand the difference between puts and printf
 - [ ] get user input with gets.chomp
 - [ ] use conditional branching and looping techniques with case
@@ -11,3 +11,6 @@ Learning Goals
 - [ ] select specific elements of array using the syntax array[0] and array[1..-1]
 - [ ] set up and use an API (Application Programming Interface)
 - [ ] implement functionality provided by various gems: klout, bitly, jumpstart_auth
+
+
+- ISSUES : cant access twitter , and twitter error:forbidden
